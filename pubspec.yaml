@@ -17,6 +17,7 @@ dependencies:
   flutter_dialogflow: ^0.1.3
   bubble: ^1.1.9+1
   intl:
+  google_fonts: ^1.1.2
 
 
 dev_dependencies:
@@ -33,7 +34,7 @@ flutter:
     - assets/robot.jpg
     - assets/camera.png
     - assets/default.jpg
-
+    - assets/lina.png
     - assets/service.json
 
   # The following line ensures that the Material Icons font is
